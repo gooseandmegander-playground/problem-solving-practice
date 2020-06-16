@@ -4,9 +4,6 @@ The purpose of this repository is to record technical learnings from individual 
 
 ## Content
 
-🚧 Data Structures
-* Trees
-
 Algorithms
 * [Sliding Window Pattern](Algorithms/SlidingWindow/slidingWindow.js)
 
