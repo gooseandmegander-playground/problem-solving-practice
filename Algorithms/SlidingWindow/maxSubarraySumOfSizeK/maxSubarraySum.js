@@ -13,7 +13,7 @@
  * Output: 7
  */
 
-function maxSubarrayOfSizeK(k, arr) {
+function maxSubarraySum(k, arr) {
   let maxSum = 0;
   let currSum = 0;
   let windowStart = 0;
@@ -34,4 +34,4 @@ function maxSubarrayOfSizeK(k, arr) {
   return maxSum;
 }
 
-module.exports = maxSubarrayOfSizeK;
+module.exports = maxSubarraySum;

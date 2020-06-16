@@ -5,7 +5,8 @@ The purpose of this repository is to record technical learnings from individual 
 ## Content
 
 Algorithms
-* [Sliding Window Pattern](Algorithms/SlidingWindow/slidingWindow.js)
+* Sliding Window Pattern
+    * [Max Subarray Sum of Size K](Algorithms/SlidingWindow/maxSubarraySumOfSizeK/maxSubarraySum.js)
 
 ## Usage
 
