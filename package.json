@@ -1,0 +1,26 @@
+{
+  "name": "problem-solving-practice",
+  "version": "1.0.0",
+  "description": "Technical learnings",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gooseandmegander-playground/problem-solving-practice.git"
+  },
+  "keywords": [
+    "javascript",
+    "jest"
+  ],
+  "author": "Megan Williamson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gooseandmegander-playground/problem-solving-practice/issues"
+  },
+  "homepage": "https://github.com/gooseandmegander-playground/problem-solving-practice#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
