@@ -20,6 +20,20 @@ To run Jest tests:
 To run Linting:
 `npm run lint`
 
+**Git Hooks**
+
+There is currently a pre-commit git hook for linting in the `.githooks` directory.
+
+To set up the "lint-staged-files" script in a pre-commit hook:
+
+1. In the terminal, open the pre-commit.sample script (using Vim): `vi .git/hooks/pre-commit.sample`. Copy the "lint-staged-files" script and paste into `pre-commit.sample`. If you're not familiar with Vim, you'll need to use `i` to insert text and `:wq` to write to the file and close it.
+
+2. Activate the hook by removing the sample file ending: `mv pre-commit.sample pre-commit`
+
+3. Make the hook executable: `chmod +x pre-commit`
+
+Take a bow. You did it! 🎉
+
 ## Troubleshooting
 
 When running tests, if you see:
