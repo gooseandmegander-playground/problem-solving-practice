@@ -7,6 +7,7 @@ The purpose of this repository is to record technical learnings from individual 
 Algorithms
 * Sliding Window Pattern
     * [Max Subarray Sum of Size K](Algorithms/SlidingWindow/maxSubarraySumOfSizeK/maxSubarraySum.js)
+    * [Smallest Subarray with a Given Sum](Algorithms/SlidingWindow/smallestSubarrayWithGivenSum/smallestSubarrayWithGivenSum.js)
 
 ## Usage
 
@@ -15,6 +16,9 @@ To get up and running:
 
 To run Jest tests:
 `npm run test`
+
+To run Linting:
+`npm run lint`
 
 ## Troubleshooting
 
