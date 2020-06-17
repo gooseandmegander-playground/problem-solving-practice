@@ -4,7 +4,8 @@
   "description": "Technical learnings",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "lint": "eslint . --cache"
   },
   "repository": {
     "type": "git",
@@ -21,6 +22,7 @@
   },
   "homepage": "https://github.com/gooseandmegander-playground/problem-solving-practice#readme",
   "devDependencies": {
+    "eslint": "^7.2.0",
     "jest": "^26.0.1"
   }
 }
