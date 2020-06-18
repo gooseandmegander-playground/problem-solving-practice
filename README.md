@@ -8,6 +8,7 @@ Algorithms
 * Sliding Window Pattern
     * [Max Subarray Sum of Size K](Algorithms/SlidingWindow/maxSubarraySumOfSizeK/maxSubarraySum.js)
     * [Smallest Subarray with a Given Sum](Algorithms/SlidingWindow/smallestSubarrayWithGivenSum/smallestSubarrayWithGivenSum.js)
+    * [Longest Substring with K Distinct Characters](Algorithms/SlidingWindow/longestSubstringWithKDistinctCharacters/longestSubstringWithKDistinctCharacters.js)
 
 ## Usage
 
