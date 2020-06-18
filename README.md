@@ -41,4 +41,12 @@ When running tests, if you see:
 TypeError: (0, _vm(...).compileFunction) is not a function
 at runtime._execModule (node_modules/jest-runtime/build/index.js:1166:56)
 ```
+
+or
+
+```
+Oops! Something went wrong! :(
+ESLint: 7.2.0
+TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+```
 check your version of node and use a current stable version. `nvm use stable` is handy.
