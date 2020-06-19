@@ -9,6 +9,8 @@ Algorithms
     * [Max Subarray Sum of Size K](Algorithms/SlidingWindow/maxSubarraySumOfSizeK/maxSubarraySum.js)
     * [Smallest Subarray with a Given Sum](Algorithms/SlidingWindow/smallestSubarrayWithGivenSum/smallestSubarrayWithGivenSum.js)
     * [Longest Substring with K Distinct Characters](Algorithms/SlidingWindow/longestSubstringWithKDistinctCharacters/longestSubstringWithKDistinctCharacters.js)
+* Two Pointers Pattern
+    * [Pair with Target Sum](Algorithms/TwoPointers/pairWithTargetSum/pairWithTargetSum.js)
 
 ## Usage
 
