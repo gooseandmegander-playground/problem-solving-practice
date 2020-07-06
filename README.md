@@ -13,6 +13,7 @@ Algorithms
     * [Pair with Target Sum](Algorithms/TwoPointers/pairWithTargetSum/pairWithTargetSum.js)
 * Fast & Slow Pointers Pattern
     * [Linked List Cycle](Algorithms/FastAndSlowPointers/linkedlistcycle/linkedlistcycle.js)
+    * [Linked List Cycle Length](Algorithms/FastAndSlowPointers/linkedListCycleLength/linkedListCycleLength.js)
 
 ## Usage
 
