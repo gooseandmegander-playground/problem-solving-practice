@@ -11,6 +11,8 @@ Algorithms
     * [Longest Substring with K Distinct Characters](Algorithms/SlidingWindow/longestSubstringWithKDistinctCharacters/longestSubstringWithKDistinctCharacters.js)
 * Two Pointers Pattern
     * [Pair with Target Sum](Algorithms/TwoPointers/pairWithTargetSum/pairWithTargetSum.js)
+* Fast & Slow Pointers Pattern
+    * [Linked List Cycle](Algorithms/FastAndSlowPointers/linkedlistcycle/linkedlistcycle.js)
 
 ## Usage
 
